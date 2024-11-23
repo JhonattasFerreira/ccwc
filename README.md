@@ -1,6 +1,6 @@
 # CCWC tool
 
-This is my version of the Linux command line tool `wc`, the `ccwc` in this case.
+This is my version of the Linux command line tool `wc`, the `ccwc`.
 This code is part of the [Coding Challenges](https://codingchallenges.fyi/challenges/challenge-wc) from [John Cricket](https://github.com/johncrickett).
 
 ## How to run (Linux and Mac)
