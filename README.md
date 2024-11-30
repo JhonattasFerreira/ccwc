@@ -3,6 +3,8 @@
 This is my version of the Linux command line tool `wc`, the `ccwc`.
 This code is part of the [Coding Challenges](https://codingchallenges.fyi/challenges/challenge-wc) from [John Cricket](https://github.com/johncrickett).
 
+You can check out the creation process in my [blog post](https://jhocore.com/blog/en/the-linux-command-ccwc).
+
 ## How to run (Linux and Mac)
 
 1. Clone this repository.
